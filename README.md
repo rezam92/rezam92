@@ -2,8 +2,7 @@
 - 👀 I’m interested in `C++`, `Dart` and `Flutter` and I'm improving my skills.
 - 🌱 I’m currently learning `PHP` and `Laravel`.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
--   mailto:reza.mahmoudi.1992@gmail.com
+- 📫 How to reach me : mailto://reza.mahmoudi.1992@gmail.com
 
 <!---
 rezam92/rezam92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
