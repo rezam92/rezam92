@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Reza :)
-- 👀 I’m interested in `C++`, `Dart` and `Flutter` and I'm improving my skills.
-- 🌱 I’m currently learning `PHP` and `Laravel`.
+- 👀 I'm senior Flutter/Dart developer.
+- 👀 I’m interested in `C++` and `C` (love pointers 🤷‍♂️).
+- 🌱 I’m currently learning `Golang`.
 - 💞️ I’m looking to collaborate on novel and pioneer project everywhere ...
 - 📫 How to reach me : mailto:reza.mahmoudi.1992@gmail.com
 
