@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Reza :)
-- 👀 I'm senior Flutter/Dart developer.
+- 👀 I'm senior `Flutter/Dart` developer.
 - 👀 I’m interested in `C++` and `C` (love pointers 🤷‍♂️).
 - 🌱 I’m currently learning `Golang`.
 - 💞️ I’m looking to collaborate on novel and pioneer project everywhere ...
